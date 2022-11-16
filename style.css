@@ -1,0 +1,12 @@
+/* button{
+    width:100px;
+    background-color: red;
+} */
+
+#botao{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+    font-size: 18px;
+}
